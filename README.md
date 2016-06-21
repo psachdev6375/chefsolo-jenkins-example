@@ -1,0 +1,1 @@
+# chefsolo-jenkins-example
